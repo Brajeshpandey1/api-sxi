@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-sleuth:1.2.4.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-sleuth/1.2.4.RELEASE/a872a0330be4f91f008dc87a28f6997728eddf80/spring-cloud-starter-sleuth-1.2.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-sleuth/1.2.4.RELEASE/567cda352e4fa28ea522713fd44ccc0e3a3d94c8/spring-cloud-starter-sleuth-1.2.4.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/webservice-registry.iml" filepath="$PROJECT_DIR$/webservice-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webservice-registry.main.iml" filepath="$PROJECT_DIR$/.idea/modules/webservice-registry.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webservice-registry.test.iml" filepath="$PROJECT_DIR$/.idea/modules/webservice-registry.test.iml" />
+    </modules>
+  </component>
+</project>
